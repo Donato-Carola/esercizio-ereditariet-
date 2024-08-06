@@ -9,6 +9,8 @@ public class Test {
 		c1.getMessage();
 
 		
+		Childdue c2 = new Childdue();
+		c2.getMessage();
 		
 	}
 
