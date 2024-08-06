@@ -3,7 +3,10 @@ package ereditarietà;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		
+		Childuno c1 = new Childuno();
+		c1.getMessage();
 
 		
 		

@@ -6,11 +6,6 @@ public abstract class Parent {
       
       
 
-	public Parent(String message) {
-		super();
-		Message = message;
-	}
-
 
 
 
